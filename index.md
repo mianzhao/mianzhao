@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+🌈Play the 2021 BEST FreeCell Solitaire Fun And Enjoy a Relaxed life NOW!
 
-You can use the [editor on GitHub](https://github.com/mianzhao/mianzhao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+🕸 FreeCel is a popular INTERESTING& CLASSIC card game that is ideal for all ages, if you like playing solitaire (Klondike Solitaire either Patience), then our BEST FreeCell will bring you endless fun.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+♠️Now let’s have a look of our Classic FreeCell Free!!!
 
-### Markdown
+♥️Classic, fun FreeCell Offline Free game FreeCell Classic is a challenging brain game that everyone can play for free! Games That don’t need wi-fi!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+♦️Dedicated Game Design For You All the cards, backgrounds and animations are perfectly designed ,you could choose various difficulties to challenge yourself
 
-```markdown
-Syntax highlighted code block
+♣️Diverse Artistic Themes With dozens of Front patterns/Back patterns/Backgrounds, you could design your own style, also you could upload the pictures in your album.
 
-# Header 1
-## Header 2
-### Header 3
+📅 Exciting Daily Challenges For You Spider Solitaire There are daily challenges for you to complete and win trophies
 
-- Bulleted
-- List
+🌈FEATURES:
 
-1. Numbered
-2. List
+🌵 Perfect game interface with high quality
 
-**Bold** and _Italic_ and `Code` text
+🌵 Enlarged version that will do no harm to eyes
 
-[Link](url) and ![Image](src)
-```
+🌵 Simple operation, each step can be completed by clicking or dragging
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+🌵 Tap to automatically choose the best move
 
-### Jekyll Themes
+🌵 right or Left handed mode
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mianzhao/mianzhao/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+🌵 Undo freely
 
-### Support or Contact
+🌵 Time, move,statistics
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+🌵 Perfect Sound effect
+
+🌵 Unlimited and free hints
+
+🌵 Auto hint by Spider Solitaire
+
+🌵 Play games any time
+
+🌵 Play offline. No WIFI required to play for free!
+
+🌵 More gameplays are waiting for you to explore...
+
+🌈The Best FreeCell Game
+
+🌹 Track Your Spider Solitaire Stats
+
+🌹Spider Solitaire is a fun, addictive smash hit
+
+🌹 Addictive, fun game levels that will keep you coming back
+
+🌹 Old school games with a modern feel
+
+🌹 What do users think of our FreeCell game? Top phrases across all our reviews are: “Addictive”, “Challenging”, “Easy to Play”, “Relaxing”, “Great Time Killer”, “best card game”.
+
+🌹Should you play FreeCell? If you like playing classic card games and experience top Spider Solitaire Offline fun, you absolutly will enjoy our exciting CLASSIC Solitaire FREE, also you could try our other free top fun Solitaire , like Freecell, Tripeaks，spider solitaire and so on.
+
+📲DOWNLOAD and TRY our fascinating BEST Classic FreeCell Card Game and enjoy FREESpider Solitaire fun NOW!
+
+📧FreeCell Offline Free CONTACT: magicforjim@gmail.com
